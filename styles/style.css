@@ -1,0 +1,60 @@
+body {
+  align-content: center;
+  align-items: center;
+  align-self: center;
+  text-align: center;
+  background: #aaaaaa;
+}
+h4 {
+  padding-top: 10px;  
+}
+p {
+  padding-top: 10px;
+}
+a {
+  color: #dddddd;
+}
+a:hover {
+  color: #ffffff;
+  text-decoration: underline;  
+}
+.header {
+  color: #dddddd;
+  margin: auto;
+  max-width: 600px;
+  background: #202020;
+  border-radius: 20px;
+  padding: 10px;
+}
+.userBox {
+  margin: 5px auto;
+  align-content: left;
+  align-items: left;
+  text-align: left;
+  max-width: 700px;
+  background: black;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.streamLogo {
+  margin: 5px auto;
+  max-width: 80px;
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+}
+.imgCol {
+  margin: auto;
+  background: #202020;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.statOnline {
+  background: #395639;
+}
+.statOffline {
+  background: #313044;
+}
+.statError {
+  background: #542424;
+}
